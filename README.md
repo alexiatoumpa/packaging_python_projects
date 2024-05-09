@@ -47,3 +47,8 @@ pip uninstall myproject
 ```
 
 ## Test Package
+
+```bash
+cd tests
+python test.py
+```
