@@ -4,13 +4,19 @@
 
 ### Create/activate python environment
 
-```py
+```bash
 cd pyenv/
 python3 -m venv env
 source env/bin/activate
 
 pip install setuptools
 pip install wheel
+```
+
+#### Deactivate python environment
+
+```bash
+deactivate
 ```
 
 ### Get repository
