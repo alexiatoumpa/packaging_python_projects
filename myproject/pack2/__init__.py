@@ -1,0 +1,1 @@
+from .multiplications import square
